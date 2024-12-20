@@ -1,0 +1,4 @@
+﻿  j1.cpp
+F:\Cpp\introduction\j1\j1\j1\j1.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\Cpp\introduction\j1\j1\j1\j1.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  j1.vcxproj -> F:\Cpp\introduction\j1\j1\x64\Debug\j1.exe
