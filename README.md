@@ -29,24 +29,8 @@ This project is a simple calculator implemented in C++ that performs basic arith
 1. Clone the repository or download the source code file `calculator.cpp`.
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/mohammadAitech/Simple_cpp_calculator/
    ```
-
-2. Compile the program using a C++ compiler:
-
-   ```bash
-   g++ calculator.cpp -o calculator
-   ```
-
-3. Run the compiled program:
-
-   ```bash
-   ./calculator
-   ```
-
-4. Follow the on-screen prompts to perform calculations.
-
 ---
 
 Usage Example
